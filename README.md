@@ -1,1 +1,1 @@
-# p98angel
+// autor: p98angel
